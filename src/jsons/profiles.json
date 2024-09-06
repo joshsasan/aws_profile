@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "09 January 2003" },
+    {
+      "website": "<a target='blank' href='https://ap-southeast-2.console.aws.amazon.com/console/home?nc2=h_ct&region=ap-southeast-2&src=header-signin#'>http://josh-sasan-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+639064538016" },
+    { "address": "San Vicente Norte, Sagbayan, Bohol" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. In Information Technology" },
+    { "email": "<a href='mailto:kucijosh@gmail.com'>kucijosh@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "San Vicente Norte, Sagbayan, Bohol",
+    "+639064538016",
+    "<a href='mailto:kucijosh@gmail.com'>kucijosh@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. In Information Technology",
+      "year": "2024 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2020 - 2021",
+      "school": "San Agustin, National High School",
+      "address": "San Agustin, Sagbayan, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2014 - 2015",
+      "school": "Sagbayan Central Elementary School",
+      "address": "Poblacion, Sagbayan, Bohol"
+    }
+  ]
+}
